@@ -25,7 +25,7 @@ if(x=="1"){xxx="top-10-reasons-why-you-should-become.html"}
 if(x=="2"){xxx="career-salary-and-education-information.html"}
 if(x=="3"){xxx="top-3-lawyer-jobs.html"}
 if(x=="4"){xxx="the-lawyer-legal-news-and-jobs.html"}
-if(x=="5"){xxx="what-is-difference-between-attorney.html"}a_to_ve[i].href="https://tinyurl.com/classicrock7"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="5"){xxx="what-is-difference-between-attorney.html"}a_to_ve[i].href="https://tinyurl.com/classicrock7/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
